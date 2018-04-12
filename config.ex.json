@@ -1,0 +1,9 @@
+{
+  "stripe_secret": "fake_secret",
+  "smtp_email": "fake_email",
+  "smtp_password": "fake_password",
+  "admin_emails": [
+    "example+admin1@gmail.com",
+    "example+admin2@gmail.com"
+  ]
+}
